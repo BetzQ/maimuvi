@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+ font-family: 'Anybody', cursive;
+ background-color: #FFEBB7;
+    background-image: url(https://i.ibb.co/Jj0Wm3W/pngwing-com.png);
+}
+
+main {
+  width: 90%;
+  max-width: 1104px;
+  margin: 32px auto;
+}
+
+movie-list {
+  display: block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+}
